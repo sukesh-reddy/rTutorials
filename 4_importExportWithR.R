@@ -64,4 +64,4 @@ write.xlsx(mydata,'path')
 library(writexl)
 write_xlsx(mydata,path)
 
-write.csv(mydata,'path') 
+write.csv(mydata,'path')

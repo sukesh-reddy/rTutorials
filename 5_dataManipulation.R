@@ -3,7 +3,7 @@
 # Apply Family, Dplyr Package
 ################################
 
-######### Aplly family function #############
+######### Apply family function #############
 
 # apply functions are used to perform specific change to each col/row of a r object
 
