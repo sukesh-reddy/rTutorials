@@ -1,6 +1,6 @@
 ###############################
 # Machine learning Life-Cycle
-# Data Sourcing/Collection, Data Exploration, Data Preparation, Feature Engineering, Model Building, Model deployment
+# Data Sourcing/Collection, Data Exploration, Data Preparation, Feature Engineering, Model Building, Model Evaluation
 ###############################
 
 #######################################################################################################

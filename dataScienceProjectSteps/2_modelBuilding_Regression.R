@@ -110,6 +110,8 @@ stepAIC(full,direction='backward')
 # forward elimination
 stepAIC(null,scope = list(lower = null,upper = full),method='forward')
 
+# from the above step wise algorithm we can see
+
 # both
 stepAIC(null,scope = list(lower = null, upper = full),direction = 'both')
 extractAIC()
